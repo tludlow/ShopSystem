@@ -4,7 +4,7 @@
 * React
 * Node.JS
 
-###Main Features
+### Main Features
 * Account System
 * Change Email/Password
 * Stock Management
