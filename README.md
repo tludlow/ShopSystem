@@ -1,6 +1,6 @@
-#ShopSystem
+# ShopSystem
 
-###Technologies used
+### Technologies used
 * React
 * Node.JS
 
