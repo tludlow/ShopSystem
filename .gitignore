@@ -9,8 +9,9 @@
 /coverage
 
 # production
-/
-/frontend/yarn.lock /backend/yarn.lock build
+/production
+/frontend/yarn.lock 
+/backend/yarn.lock build
 
 # misc
 .DS_Store
